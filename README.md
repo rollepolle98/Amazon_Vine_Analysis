@@ -35,4 +35,7 @@ Non Vine Reviews        |  Vine Reviews
 
   * Total percentage of 5 star reviews = 38.7% non-vine (not paid) reviews and 51.1% vine (paid) reviews.
 
-## Summary: In the summary, the learners should state whether there is any bias in the Vine program. They should use the results of their analysis to support their statement, and provide one additional analysis that they could do with the dataset to support their statement.
+## Summary: 
+
+This data suggests that there is a bias toward five-star reviews from paid-reviewers. Reason being is because while the majority of reviews and amount of five star reviews are in favor of non-vine members. It still shows that more than half of vine members reviews are 5 star. That in itself shows bias that paid viewers have. 
+A way to have made this unbias would have been further analysis of more samples and knowing how many 1-4 star reviews each viewer left therefore you could see a clear pattern.
