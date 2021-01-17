@@ -16,7 +16,7 @@ Task at hand : analyzing Amazon reviews written by members of the paid Amazon Vi
 ![](Analysis/SQL_Query.png)
 
 
-## Results: Using bulleted lists and images as support, the learners should address the following questions.
+## Results and Analysis
 
 
 Non Vine Reviews        |  Vine Reviews
@@ -25,11 +25,14 @@ Non Vine Reviews        |  Vine Reviews
 
 * How many total reviews were there for a review that was or wasn’t written as part of the Vine program?
 
-  * Total amount of reviews = 40,471 unpaid reviews and 94 paid reviews.
+  * Total amount of reviews = 40,471 non-vine (not paid) reviews and 94 vine (paid) reviews.
   
-
-
 * How many 5 star reviews were there for a review that was or wasn’t written as part of the Vine program?
+
+  * Total amount of 5 star reviews = 15,663 non-vine (not paid) reviews and 48 vine (paid) reviews.
+  
 * What is the total percentage of 5 star reviews for or a review that was or wasn’t written as part of the Vine program?
+
+  * Total percentage of 5 star reviews = 38.7% non-vine (not paid) reviews and 51.1% vine (paid) reviews.
 
 ## Summary: In the summary, the learners should state whether there is any bias in the Vine program. They should use the results of their analysis to support their statement, and provide one additional analysis that they could do with the dataset to support their statement.
